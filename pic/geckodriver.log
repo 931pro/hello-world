@@ -1,0 +1,37 @@
+1641909300736	geckodriver	INFO	Listening on 127.0.0.1:63621
+1641909303775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63622" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile6a6dPX"
+1641909304104	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile6a6dPX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63622/devtools/browser/e388f4d6-5fdd-4677-b8a6-2f35598e4926
+1641909306028	Marionette	INFO	Listening on port 63627
+1641909306455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_22dabaa57e87fe3c95f06568f9ad6a66.js?22dabaa57e87fe3c95f06568f9ad6a66, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_22dabaa57e87fe3c95f06568f9ad6a66.js?22dabaa57e87fe3c95f06568f9ad6a66, line 96: unreachable code after return statement
+1641909335889	Marionette	INFO	Stopped listening on port 63627
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641909540706	geckodriver	INFO	Listening on 127.0.0.1:62646
+1641909543752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62647" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileZOr4T8"
+1641909544035	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileZOr4T8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62647/devtools/browser/8cb78499-11bd-4c31-81c0-e47cab9f82c9
+1641909545918	Marionette	INFO	Listening on port 62652
+1641909546429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_22dabaa57e87fe3c95f06568f9ad6a66.js?22dabaa57e87fe3c95f06568f9ad6a66, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_22dabaa57e87fe3c95f06568f9ad6a66.js?22dabaa57e87fe3c95f06568f9ad6a66, line 96: unreachable code after return statement
+1641909567076	Marionette	INFO	Stopped listening on port 62652
+1641909780671	geckodriver	INFO	Listening on 127.0.0.1:59474
+1641909783732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59475" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileoIn7JG"
+1641909784000	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileoIn7JG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59475/devtools/browser/8ddc6212-9cf4-44f2-9678-2686d99b9197
+1641909785902	Marionette	INFO	Listening on port 59480
+1641909786400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s3.music.126.net/web/s/core_22dabaa57e87fe3c95f06568f9ad6a66.js?22dabaa57e87fe3c95f06568f9ad6a66, line 96: unreachable code after return statement
+JavaScript warning: https://s3.music.126.net/web/s/core_22dabaa57e87fe3c95f06568f9ad6a66.js?22dabaa57e87fe3c95f06568f9ad6a66, line 96: unreachable code after return statement
+1641909803125	Marionette	INFO	Stopped listening on port 59480
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

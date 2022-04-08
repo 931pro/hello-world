@@ -1,0 +1,10 @@
+
+
+linux 系统下 使用selenium 的一些坑 ：：：
+抓包时设置 不打开窗口display = Display(visible=0, size=(1920, 1080))
+display.start()// 这步要 引入包pyvirtualdisplay 并且yum install  Xvfb 并且pip install xvfbwrapper
+
+环境：火狐driver自行下载 安装到python 的安装路径
+然后再 linux 系统中安装火狐
+:
+sudo yum install firefox
